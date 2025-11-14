@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/5293bd4841ba4ef58afbfabd0e07f91f/artifacts
+end_time: 1763140751578
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: 5293bd4841ba4ef58afbfabd0e07f91f
+run_name: clumsy-shrike-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140751499
+status: 3
+tags: []
+user_id: NK

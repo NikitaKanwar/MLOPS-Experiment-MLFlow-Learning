@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/10d98e1ed8da4598a27aa40eec14c6cd/artifacts
+end_time: 1763140170963
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: 10d98e1ed8da4598a27aa40eec14c6cd
+run_name: indecisive-steed-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140170889
+status: 3
+tags: []
+user_id: NK

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/da070c425f034dcfab0fd8bfeabb067e/artifacts
+end_time: 1763140751910
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: da070c425f034dcfab0fd8bfeabb067e
+run_name: languid-lark-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140751831
+status: 3
+tags: []
+user_id: NK

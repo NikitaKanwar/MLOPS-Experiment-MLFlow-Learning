@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/83986b85aa4d404ba908fd2f3f981408/artifacts
+end_time: 1763140501807
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: 83986b85aa4d404ba908fd2f3f981408
+run_name: handsome-worm-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140501727
+status: 3
+tags: []
+user_id: NK

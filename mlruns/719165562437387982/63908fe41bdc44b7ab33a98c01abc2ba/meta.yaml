@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/63908fe41bdc44b7ab33a98c01abc2ba/artifacts
+end_time: 1763140171399
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: 63908fe41bdc44b7ab33a98c01abc2ba
+run_name: capricious-moth-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140171333
+status: 3
+tags: []
+user_id: NK

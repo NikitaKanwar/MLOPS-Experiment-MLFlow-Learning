@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/models/m-851e403fd4b24422adf419a30f0a96fa/artifacts
+creation_timestamp: 1763140501942
+experiment_id: '719165562437387982'
+last_updated_timestamp: 1763140508330
+model_id: m-851e403fd4b24422adf419a30f0a96fa
+model_type: null
+name: random_forest
+source_run_id: e5a93028210a4abe94aecfcb5e581463
+status: 2
+status_message: null

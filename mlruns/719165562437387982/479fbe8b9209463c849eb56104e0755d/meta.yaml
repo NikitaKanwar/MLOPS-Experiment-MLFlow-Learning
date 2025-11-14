@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/479fbe8b9209463c849eb56104e0755d/artifacts
+end_time: 1763140751388
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: 479fbe8b9209463c849eb56104e0755d
+run_name: luminous-cod-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140751324
+status: 3
+tags: []
+user_id: NK

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982
+creation_time: 1763140155234
+experiment_id: '719165562437387982'
+last_update_time: 1763140155234
+lifecycle_stage: active
+name: breast-cancer-rf-hp

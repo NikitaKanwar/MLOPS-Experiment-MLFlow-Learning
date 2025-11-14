@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/add96dbb68684ab18d79f9b9b8ffab91/artifacts
+end_time: 1763140751101
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: add96dbb68684ab18d79f9b9b8ffab91
+run_name: polite-yak-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140751022
+status: 3
+tags: []
+user_id: NK

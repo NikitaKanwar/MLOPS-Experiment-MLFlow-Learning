@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/c0725f2b4e8946b8b633e88a3836ea5b/artifacts
+end_time: 1763140170799
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: c0725f2b4e8946b8b633e88a3836ea5b
+run_name: luminous-goat-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140170729
+status: 3
+tags: []
+user_id: NK

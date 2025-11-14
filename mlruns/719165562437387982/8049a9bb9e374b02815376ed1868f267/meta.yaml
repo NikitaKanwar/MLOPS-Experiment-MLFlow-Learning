@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/8049a9bb9e374b02815376ed1868f267/artifacts
+end_time: 1763140171053
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: 8049a9bb9e374b02815376ed1868f267
+run_name: chill-grub-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140170971
+status: 3
+tags: []
+user_id: NK

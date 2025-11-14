@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/e05b2ad89ee34835923eee778f87eef3/artifacts
+end_time: 1763140501266
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: e05b2ad89ee34835923eee778f87eef3
+run_name: grandiose-worm-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140501211
+status: 3
+tags: []
+user_id: NK

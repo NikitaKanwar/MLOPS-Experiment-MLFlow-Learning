@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/9c43a5810a1f46789871155cb08a6f0e/artifacts
+end_time: 1763140758461
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: 9c43a5810a1f46789871155cb08a6f0e
+run_name: masked-turtle-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140740408
+status: 3
+tags: []
+user_id: NK

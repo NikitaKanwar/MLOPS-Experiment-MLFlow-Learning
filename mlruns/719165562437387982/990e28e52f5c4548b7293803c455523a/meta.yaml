@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/990e28e52f5c4548b7293803c455523a/artifacts
+end_time: 1763140171559
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: 990e28e52f5c4548b7293803c455523a
+run_name: secretive-mule-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140171493
+status: 3
+tags: []
+user_id: NK

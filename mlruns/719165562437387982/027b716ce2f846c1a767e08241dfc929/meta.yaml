@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/027b716ce2f846c1a767e08241dfc929/artifacts
+end_time: 1763140170879
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: 027b716ce2f846c1a767e08241dfc929
+run_name: languid-cow-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140170809
+status: 3
+tags: []
+user_id: NK

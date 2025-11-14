@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/8c5ee838e6c344618f72ffde9f1ada3b/artifacts
+end_time: 1763140171145
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: 8c5ee838e6c344618f72ffde9f1ada3b
+run_name: adaptable-elk-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140171062
+status: 3
+tags: []
+user_id: NK

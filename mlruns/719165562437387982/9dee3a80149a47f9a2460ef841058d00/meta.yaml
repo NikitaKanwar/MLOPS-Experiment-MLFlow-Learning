@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NK/Pycharm-Projects/MLOPS-Sereies/MLOPS-Expreminet-MLFlow-Learning/mlruns/719165562437387982/9dee3a80149a47f9a2460ef841058d00/artifacts
+end_time: 1763140751213
+entry_point_name: ''
+experiment_id: '719165562437387982'
+lifecycle_stage: active
+run_id: 9dee3a80149a47f9a2460ef841058d00
+run_name: mercurial-steed-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763140751117
+status: 3
+tags: []
+user_id: NK
